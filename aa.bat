@@ -1,0 +1,1 @@
+cxfreeze Window_Main.py
